@@ -19,7 +19,7 @@ Prerequisites
 
 Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/PhotoVaultApp.git
+   git clone https://github.com/miclenzy/secure-gallery.git
 
 Open the project in Android Studio.
 
