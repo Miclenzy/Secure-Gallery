@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.SecureGallery.Custom" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#00796B</item>
+        <item name="colorPrimaryVariant">#004D40</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#8E24AA</item>
+        <item name="colorSecondaryVariant">#5C007A</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Background color -->
+        <item name="android:colorBackground">#E0F2F1</item>
+        <item name="colorOnBackground">#004D40</item>
+
+        <!-- Surface color -->
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#004D40</item>
+
+        <!-- Error color -->
+        <item name="colorError">#D32F2F</item>
+        <item name="colorOnError">#FFFFFF</item>
+
+        <!-- Custom accent color -->
+        <item name="colorAccent">#FFC107</item>
+    </style>
+</resources>
