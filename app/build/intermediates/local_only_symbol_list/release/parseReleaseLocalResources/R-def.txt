@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id main
+id webview
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
+mipmap ic_launcher_monochrome
+mipmap ic_launcher_round
+mipmap ic_launcher_round_background
+mipmap ic_launcher_round_foreground
+mipmap ic_launcher_round_monochrome
+string app_name
+style Base.Theme.TechnolenzMobileApp
+style Theme.TechnolenzMobileApp
+xml backup_rules
+xml data_extraction_rules

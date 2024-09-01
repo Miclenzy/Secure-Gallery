@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Mike\AndroidStudioProjects\TechnolenzMobileApp\app"
+    name=":app"
+    type="APP"
+    maven="Technolenz Mobile App:app:unspecified"
+    agpVersion="8.5.1"
+    buildFolder="build"
+    bootClassPath="C:\Users\Mike\AppData\Local\Android\Sdk\platforms\android-34\android.jar;C:\Users\Mike\AppData\Local\Android\Sdk\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
